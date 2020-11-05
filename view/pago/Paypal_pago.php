@@ -22,8 +22,8 @@
         // Create a PayPal app: https://developer.paypal.com/developer/applications/create
 
         client: {
-            sandbox: 'AeEuw68gqJE7FXY1AmOQ6Ulo1IaM5iBpj5NIDeu3dFKAEADC_yk-xZ3PQkql4dcfdRQaRX3wVBjHuNpk',
-            production: 'AZDc2besgZM73x6XtJe3tZ8YOBPR7Un1Hq5DLB1s0oXq41j6zos-0ctx3KuoP8WFz-D9H7-8W4ytC9_Q'
+            sandbox: '',
+            production: ''
         },
 
         // Wait for the PayPal button to be clicked
