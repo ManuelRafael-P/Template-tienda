@@ -84,11 +84,11 @@ class pagoController
     public function Verificar()
     {
 
-        //$ClientID = "AZDc2besgZM73x6XtJe3tZ8YOBPR7Un1Hq5DLB1s0oXq41j6zos-0ctx3KuoP8WFz-D9H7-8W4ytC9_Q";
-        //$Secret = "EFJtZMz_CIrKxDJ0GSvaf_0NBamlvQAQ1uG5zRMzQ-yMdtmCLeDKkRo5EjVcBoveWULb8k3O8hX4SAbS";
+        //$ClientID = "";
+        //$Secret = "";
 
-        $ClientID = "AdE7jd5gr5VcSNjDIS3vNJZnswLQLyt_ddQy3oqw91fcSk-oDn5pQu0mPZwVmk91QX5TUJ3U_jFKXCIr";
-        $Secret = "EPPaeaerXN9tVdN-9i0NpiRLPvfHu9K1j4rz03wemxkmGaxlF6XnLjZcuWqXjLQgfNvW3Vf2rNUCDCnL";
+        $ClientID = "";
+        $Secret = "";
 
         // $url = "https://api.paypal.com";
         $url = "https://api.sandbox.paypal.com";
